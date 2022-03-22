@@ -52,7 +52,7 @@ section > p{
     padding-bottom: 2em;
 }
 section.normal{
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     color: black;
     font-family: var(--font3);
 }
@@ -70,7 +70,7 @@ section.imagem > p{
     text-shadow: 1px 1px 0px black;
 }
 section#img01{
-    background-image: url(imagens/background001.jpg);
+    background-image: url(imagens/drummond1-610x350.png);
     background-position: right center;
     background-size: cover;
 }
